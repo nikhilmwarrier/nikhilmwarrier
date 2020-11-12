@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### I am Nikhil M Warrier, passionate frontend web developer and creator of [FluidCSS](https://nikhilmwarrier.github.io/fluidcss)
+
+[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nikhilmwarrier/nikhilmwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![FluidCSS](https://github-readme-stats.vercel.app/api/pin/?username=nikhilmwarrier&repo=fluidcss)](https://github.com/anuraghazra/github-readme-stats)
