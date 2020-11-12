@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nikhilmwarrier/nikhilmwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
