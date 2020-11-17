@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Nikhil M Warrier, passionate frontend web developer and creator of <img src="https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/main/docs/res/favicon.png" height="20" width="20"> [FluidCSS](https://nikhilmwarrier.github.io/fluidcss)
+#### I am Nikhil M Warrier, passionate frontend web developer and creator of [<img src="https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/main/docs/res/fluidcss-banner_128-embed.png" height="22" width="110"> ](https://nikhilmwarrier.github.io/fluidcss)
 
 [![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
