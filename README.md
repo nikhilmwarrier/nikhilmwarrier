@@ -2,9 +2,11 @@
 
 #### I am Nikhil M Warrier, passionate frontend web developer and creator of &nbsp; [<img src="https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/main/docs/res/fluidcss-banner_128-embed.png" height="22" width="110"> ](https://nikhilmwarrier.github.io/fluidcss)
 
-[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-![Languages I use](https://komarev.com/ghpvc/?username=nikhilmwarrier&color=dc143c)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmwarrier&theme=dark&show_icons=true" />
+
+![](https://komarev.com/ghpvc/?username=nikhilmwarrier&color=dc143c)
 
 <!--
 **nikhilmwarrier/nikhilmwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
