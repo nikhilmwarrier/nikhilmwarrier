@@ -4,6 +4,8 @@
 
 [![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Languages I use](https://komarev.com/ghpvc/?username=nikhilmwarrier&color=dc143c)
+
 <!--
 **nikhilmwarrier/nikhilmwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
