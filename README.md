@@ -2,7 +2,7 @@
 
 #### I am Nikhil M Warrier, passionate frontend web developer and creator of &nbsp; [<img src="https://raw.githubusercontent.com/nikhilmwarrier/fluidcss/main/docs/res/fluidcss-banner_128-embed.png" height="22" width="110"> ](https://nikhilmwarrier.github.io/fluidcss)
 
-[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmwarrier&theme=dark&show_icons=true" />
 
