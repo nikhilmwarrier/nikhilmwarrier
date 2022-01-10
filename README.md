@@ -1,8 +1,4 @@
-# Hello! I am nikhilmwarrier, a passionate web dev 
-I am pretty good at making and breaking stuff. (Especially good at the breaking stuff part.)
-> and I am pretty sure CSS is(n't) a programming language.  
-  
-    
+# Hello! I am nikhilmwarrier, a developer and Free Software enthusiast  
 [![Nikhil's Github Stats](https://github-readme-stats.vercel.app/api?username=nikhilmwarrier&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmwarrier&theme=react&show_icons=true" />
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 #### Tech stack: 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -36,9 +32,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)   
+
+-->
    
        
        
-> Clean code is good code.  
+> There are only two types of people: those who hate debugging and liars.   
 > ~ Sun Tzu, The Art of War
 
