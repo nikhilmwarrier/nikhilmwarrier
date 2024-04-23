@@ -1,4 +1,4 @@
-My newer projects can be found on [Codeberg](https://codeberg.org/nikhilmwarrier).
+My newer projects are on [Codeberg](https://codeberg.org/nikhilmwarrier).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmwarrier&theme=react&show_icons=true" />
 
