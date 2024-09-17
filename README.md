@@ -1,6 +1,8 @@
-My newer projects are on [Codeberg](https://codeberg.org/nikhilmwarrier).
+## I'm moving to Codeberg
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmwarrier&theme=react&show_icons=true" />
+My newer projects can be found at [codeberg.org/nikhilmwarrier](https://codeberg.org/nikhilmwarrier).
+
+---
 
 ![](https://komarev.com/ghpvc/?username=nikhilmwarrier&color=dc143c)
 
