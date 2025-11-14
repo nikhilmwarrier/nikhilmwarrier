@@ -1,10 +1,19 @@
-## I'm moving to Codeberg
+(_aka_ nik, niksystems)
 
-My newer projects can be found at [codeberg.org/nikhilmwarrier](https://codeberg.org/nikhilmwarrier).
+       
+       
+> There are only two types of people: those who hate debugging and liars.   
+> ~ Sun Tzu, The Art of War
 
----
+Putting the fun back in functions.
+
+Website [nikhilmwarrier.codeberg.page](https://nikhilmwarrier.codeberg.page).
+
+More projects at [codeberg.org/nikhilmwarrier](https://codeberg.org/nikhilmwarrier).
 
 ![](https://komarev.com/ghpvc/?username=nikhilmwarrier&color=dc143c)
+[![Asbestos_ Free](https://github.com/user-attachments/assets/1ba49ce1-6cbd-4262-85fb-20921ce4d6c3)](https://xkcd.com/641/)
+
 
 <!--
 **nikhilmwarrier/nikhilmwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,9 +44,3 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)   
 
 -->
-   
-       
-       
-> There are only two types of people: those who hate debugging and liars.   
-> ~ Sun Tzu, The Art of War
-
