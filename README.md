@@ -5,7 +5,7 @@
 > There are only two types of people: those who hate debugging and liars.   
 > ~ Sun Tzu, The Art of War
 
-Putting the fun back in functions.
+Putting the fun back in functors.
 
 Website [nikhilmwarrier.codeberg.page](https://nikhilmwarrier.codeberg.page).
 
